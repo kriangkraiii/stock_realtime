@@ -1,1 +1,1 @@
-https://kriangkraiii.github.io/disaster-guide/
+(https://kriangkraiii.github.io/stock_realtime/)
